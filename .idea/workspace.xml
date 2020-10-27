@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51d0755d-9f4d-4069-b34d-3c3bf1a9a1f8" name="Default Changelist" comment="" />
+    <list default="true" id="51d0755d-9f4d-4069-b34d-3c3bf1a9a1f8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/d.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a.html" beforeDir="false" afterPath="$PROJECT_DIR$/a.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c.js" beforeDir="false" afterPath="$PROJECT_DIR$/c.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +20,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1jSoduBIxKqChfoxPteVgHDMNY1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -41,11 +50,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603806945134</updated>
-      <workItem from="1603806946192" duration="1450000" />
+      <workItem from="1603806946192" duration="5529000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="589" y="235" width="732" height="644" key="#Inspections" timestamp="1603824680888">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="589" y="235" width="732" height="644" key="#Inspections/0.27.1920.1053/1920.0.1280.1024@0.27.1920.1053" timestamp="1603824680888" />
+    <state x="819" y="455" width="281" height="203" key="Github.ShareDialog" timestamp="1603819900283">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="819" y="455" width="281" height="203" key="Github.ShareDialog/0.27.1920.1053/1920.0.1280.1024@0.27.1920.1053" timestamp="1603819900283" />
+    <state x="707" y="174" width="495" height="766" key="Github.UntrackedFilesDialog" timestamp="1603819906979">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="707" y="174" width="495" height="766" key="Github.UntrackedFilesDialog/0.27.1920.1053/1920.0.1280.1024@0.27.1920.1053" timestamp="1603819906979" />
   </component>
 </project>
